@@ -1,0 +1,11 @@
+{
+    \"Name\" : \"Screenshot\",
+    \"Version\" : \"0.0.1\",
+    \"CompatVersion\" : \"0.0.1\",
+    \"Vendor\" : \"Serge45\",
+    \"Copyright\" : \"(C) Serge45\",
+    \"License\" : \"MIT\",
+    \"Description\" : \"A simple screenshot plugin for remote(ssh) device\",
+    \"Url\" : \"https://github.com/Serge45/QTC-Screenshot\",
+    $$dependencyList
+}
