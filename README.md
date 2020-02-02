@@ -17,7 +17,7 @@ Just follow the [plugin building flow](https://doc-snapshots.qt.io/qtcreator-ext
    - RGB888
 
 ## How to Use
-After successfully install the plugin, you will see a Screenshot menu on tools tab of Qt Creator's menu bar. 
+After successfully installed the plugin, you will see a Screenshot menu on tools tab of Qt Creator's menu bar. 
 click **Take a Screenshot from remote device** action, a dialog with some options would appear, 
 You can adjust the IP address of remote device and frame buffer settings such as width, height and RGB format there,
 then click ok. If screenshot was taken successfully, 
